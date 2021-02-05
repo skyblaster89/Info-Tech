@@ -34,19 +34,19 @@ var APP_DATA = {
           "yaw": -2.425678154516584,
           "pitch": 0.13556815200176509,
           "title": "InfoTech Intro",
-          "text": ""
+          "text": '<iframe src="https://drive.google.com/file/d/1Jgq4bB4QY6BzjYge9QYupCVLVN_E6FiA/preview" width="640" height="480"></iframe>'
         },
         {
           "yaw": -3.0442974522889834,
           "pitch": 0.047963274007237544,
           "title": "InfoTech 1",
-          "text": "Text"
+          "text": '<iframe src="https://drive.google.com/file/d/1JVEhqbW7BA7v7WVpzf9AkPNrEryBIDmn/preview" width="640" height="480"></iframe>'
         },
         {
           "yaw": -2.772926358436669,
           "pitch": 0.1141935557521272,
           "title": "InfoTech 2",
-          "text": "Text"
+          "text": '<iframe src="https://drive.google.com/file/d/1JYjrDBr2Ezby81kx7uFu8QCP9hjWKXZg/preview" width="640" height="480"></iframe>'
         }
       ]
     }
